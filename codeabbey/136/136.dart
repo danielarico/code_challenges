@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 import 'dart:convert';
 import 'dart:io';
 

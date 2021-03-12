@@ -1,9 +1,3 @@
-# $ pylint danielaricoa.py
-# --------------------------------------------------------------------
-# Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
-# $ mypy danielaricoa.py
-# Success: no issues found in 1 source file
-
 """Script to solve problem 185 from codeabbey - Simple 3D Scene"""
 import math
 from typing import List

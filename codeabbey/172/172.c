@@ -1,32 +1,3 @@
-/*
-linter:
-cppcheck \
-  --error-exitcode=1 \
-  danielaricoa.c \
-&&  splint \
-  -strict \
-  -internalglobs \
-  -modfilesys \
-  -boundsread \
-  danielaricoa.c
-
-compilation:
-gcc \
-  -Wall \
-  -Wextra \
-  -Winit-self \
-  -Wuninitialized \
-  -Wmissing-declarations \
-  -Winit-self \
-  -ansi \
-  -pedantic \
-  -Werror \
-  -std=gnu99 \
-  danielaricoa.c \
-  -o danielaricoa \
-  -lm
-*/
-
 /* Script to solve challenge 172 from Codeabbey - Cloud Altitude Measurement */
 
 #include <math.h>

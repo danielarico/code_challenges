@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #172 from codeabbey - Cloud Altitude Measurement
 import 'dart:io';
 import 'dart:math';

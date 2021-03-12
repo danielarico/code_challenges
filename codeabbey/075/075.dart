@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #075 from codeabbey - Yacht or Dice Poker
 import 'dart:io';
 import "dart:collection";

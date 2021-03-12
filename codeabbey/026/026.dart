@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #26 from codeabbey - Greatest Common Divisor
 import 'dart:io';
 import 'dart:math';

@@ -1,9 +1,3 @@
-# $ pylint danielaricoa.py
-# --------------------------------------------------------------------
-# Your code has been rated at 10.00/10 (previous run: 10.00/10,  + 0.00)
-# $ mypy danielaricoa.py
-# Success: no issues found in 1 source file
-
 """Script to solve problem 173 from codeabbey - chords of music"""
 from typing import List, Dict, Tuple
 

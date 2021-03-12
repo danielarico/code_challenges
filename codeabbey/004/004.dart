@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #4 from codeabbey - Minimum of Two
 import 'dart:io';
 import 'dart:math';

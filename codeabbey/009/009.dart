@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #009 from codeabbey - Triangles
 import 'dart:io';
 

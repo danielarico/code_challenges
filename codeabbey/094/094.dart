@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #094 from codeabbey - Fool's Day 2014
 import 'dart:io';
 import 'dart:math';

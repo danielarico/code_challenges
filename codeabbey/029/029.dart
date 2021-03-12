@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #029 from codeabbey - Sort with Indexes
 import 'dart:io';
 import "dart:collection";

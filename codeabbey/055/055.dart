@@ -1,9 +1,3 @@
-/*
-$ dartanalyzer danielaricoa.dart
-Analyzing danielaricoa.dart...
-No issues found!
-*/
-
 /// Script to solve challenge #55 from codeabbey - Matching Words
 import 'dart:collection';
 import 'dart:io';
